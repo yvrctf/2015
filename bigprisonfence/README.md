@@ -35,7 +35,7 @@ The shellcode is read into a structure like this, along with a name:
          .secret = flag,
          .length = 0
      };
-```c
+```
  
 The original plan was to require the shellcode to perform some kind of
 operation on the flag to provide a plausible reason for it to be there. In this
