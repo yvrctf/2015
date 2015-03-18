@@ -52,8 +52,8 @@ Using that syscall, you can bypass the seccomp filter. Blacklisting is bad.
 ## Honorable mention
 
 You might have noticed that process_vm_readv and process_vm_writev aren't
-blocked either (the mongols did.) On Ubuntu those will be blocked in this
-context by the ptrace restrictions in the yama lkm. On other distros, that
-should have just worked.
+blocked either (the mongols did.) This was an oversight, but on Ubuntu those
+will be blocked in this context by the ptrace restrictions in the yama lkm. On
+other distros, that should have just worked.
 
 Also, it's a cooler solution. :)
