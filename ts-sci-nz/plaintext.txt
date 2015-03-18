@@ -1,0 +1,29 @@
+Before:
+---
+Hello
+
+This message is intended for only the recipient and must not be deciphered by any 
+unauthorised party. Should you not be authorised to decode this message you will 
+be prosecuted in our majestys court at its fullest.
+
+If you are in Adelaide, please make your way to Hobart to contact Minister Fuller 
+at your earliest. We have a package waiting to be picked up there which must be 
+delivered to the Sydney Harbour Bridge at its earliest. You will meet with British 
+and Canadian officials who will guide you to a waiting car at which point you will 
+be provided with further details.
+
+When you meet the officials, please provide them with the following flag:
+
+thepackagesareatperthnorth
+
+We hope that this message makes it to you safely.
+
+Yours in success in the war effort
+Minister Thomas
+---
+
+This is how it should appear after deciphering:
+---
+hellothis message is intended for only the recipient and must not be deciphered by any unauthorised party should you not be authorised to decode this message you will be prosecuted in our majestys court at its fullestif you are in adelaide please make your way to hobart to contact minister fuller at your earliest we have a package waiting to be picked up there which must be delivered to the sydney harbour bridge at its earliest you will meet with british and canadian officials who will guide you to a waiting car at which point you will be provided with further detailswhen you meet the officials please provide them with the following flagthepackagesareatperthnorthwe hope that this message makes it to you safelyyours in success in the war effortminister thomas
+
+---
