@@ -37,8 +37,8 @@ Any attempts to use open, mmap, openat, open_by_handle_at or ptrace would
 result in an EINVAL return. There was also a prctl call with PR_SET_DUMPABLE to
 block ptrace and related functions, but it was called on the child instead of
 the parent, which theoretically opened up the ability to abuse the parent
-process outside the sandbox. That was was unintentional, but is starting to
-sound like an interesting challenge for the future...
+process outside the sandbox. That was unintentional, but is starting to sound
+like an interesting challenge for the future...
 
 Since 3.4 the Linux kernel has had a feature called the [X32
 ABI](http://en.wikipedia.org/wiki/X32_ABI); 64bit syscalls with 32bit pointers. 
