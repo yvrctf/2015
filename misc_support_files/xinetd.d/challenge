@@ -1,0 +1,13 @@
+service www
+{
+    disable = no
+    socket_type = stream
+    protocol    = tcp
+    wait        = no
+    user        = root
+    bind        = 0.0.0.0
+    server      = /usr/local/sbin/wrapper32
+    server_args = -d /home/challenge/chroot -u challenge -x /challenge/www-6c895cf622477d1bd2969ddbdf7c64185db9a41e
+    type        = UNLISTED
+    port        = 17284
+}
