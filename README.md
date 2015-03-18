@@ -5,6 +5,7 @@ Thanks to everyone who participated.
 ## Results (top 10)
 
 place | team name | score
+----- | --------- | -----
 1 | mongols | 2700
 2 | DatNoobs | 2410
 3 | TokyoWesterns | 2360 
@@ -33,6 +34,7 @@ Least solved: **Baby Playpen Fence** with 2 solves
 ## Full breakdown
 
 challenge name | category | value | times solved
+-------------- | -------- | ----- | ------------
 10 ctf commandments | misc | 10pts | 411
 cushi | owable | 100pts | 101
 www | ownable | 200pts | 51
