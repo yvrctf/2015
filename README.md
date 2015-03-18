@@ -36,7 +36,7 @@ Least solved: **Baby Playpen Fence** with 2 solves
 challenge name | category | value | times solved
 -------------- | -------- | ----- | ------------
 10 ctf commandments | misc | 10pts | 411
-cushi | owable | 100pts | 101
+sushi | owable | 100pts | 101
 www | ownable | 200pts | 51
 kicker of elves | forensics | 200pts | 34
 wild blue yonder | ownable | 400pts | 31
