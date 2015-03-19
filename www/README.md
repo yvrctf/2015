@@ -6,6 +6,8 @@ No description provided.
 
 ## exploitation
 
+Note: this writeup is partially for a previous version of the binary. The PoC is correct though.
+
 www (write what where) is a contrived stack canary situation with a home made
 canary. If you overflow too far, it will just segfault. If you overflow just
 enough to overwrite saved EIP, you will get a "STACK SMASHING DETECTED"
