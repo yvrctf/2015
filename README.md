@@ -1,6 +1,6 @@
 # yvrctf, bsides vancouver 2015
 
-Thanks to everyone who participated.
+The competition ran from 8:30AM March 16th to 11:45PM March 17th, PDT. Thanks to everyone who participated.
 
 ## Results (top 10)
 
